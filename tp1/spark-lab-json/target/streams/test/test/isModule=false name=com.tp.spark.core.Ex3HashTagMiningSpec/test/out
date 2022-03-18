@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mEx3HashTagMiningSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should count the hashtag mentioned on tweets[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should count the number of mention by hashtag[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should define the top10[0m[0m

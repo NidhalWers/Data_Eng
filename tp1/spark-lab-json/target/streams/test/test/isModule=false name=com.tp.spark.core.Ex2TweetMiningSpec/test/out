@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mEx2TweetMiningSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should count the persons mentioned on tweets[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should count the number for each user mention[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should define the top10[0m[0m
